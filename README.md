@@ -31,7 +31,7 @@ Follow the steps:
 
 4.After that edit ```.env``` file and put your bot tokens
 
-5.Go on index.js and edit the prefix if you want to change it
+5.Go on index.js and edit the prefix if you want to change it by default refix is ```!```
 
 
 6.Run ```node .``` on terminal
