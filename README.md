@@ -31,7 +31,7 @@ Follow the steps:
 
 4.After that edit ```.env``` file and put your bot tokens
 
-5. Run ```node .```
+5.Run ```node .``` on terminal
 
 
 Now you are good to go.
