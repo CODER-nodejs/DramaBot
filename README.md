@@ -18,6 +18,7 @@ https://drama.gg/generator/api
 ```request-promise@4.2.6```
 ```cheerio@latest```
 ```discord.js@latest```
+```dotenv@latest```
 
 # INSTALLATION
 
@@ -27,7 +28,7 @@ Follow the steps:
 
 2.Open terminal and run ```npm init``` and follow its steps
 
-3.After you have done the steps do ```npm i request@2.88.2 request-promis@4.2.6 cheerio@latest discord.js@latest```
+3.After you have done the steps do ```npm i request@2.88.2 request-promis@4.2.6 cheerio@latest discord.js@latest dotenv@latest```
 
 4.After that edit ```.env``` file and put your bot tokens
 
