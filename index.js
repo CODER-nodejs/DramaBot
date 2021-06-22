@@ -1,9 +1,16 @@
 const Discord = require('discord.js');
+
+require("dotenv").config();
+
 const client = new Discord.Client();
+
  //You can change prefix here
 const prefix = '-';
+
 const cheerio = require('cheerio');
+
 const rp = require('request-promise');
+
  
 const fs = require('fs');
  
